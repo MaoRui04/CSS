@@ -1,2 +1,2 @@
-div>h1{color:red;} h1{color:blue;} 
+h1{color:blue;}  div>h1{color:red;} div{background-color: yellow;display: block;}
 /* HTML：<div><h1>H1Content</h1></div> */
